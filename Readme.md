@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/2/user/2610719).
-* Наставник: `Неизвестно`.
+* Студент: [Азамат](https://up.htmlacademy.ru/htmlcss-individual/2/user/2610719).
+* Наставник: `Неизвестноо`.
 
 ---
 
